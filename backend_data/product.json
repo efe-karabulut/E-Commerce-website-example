@@ -1,0 +1,45 @@
+[
+
+    {
+        "id": 23,
+        "name": "Nature",
+        "description": "lorem lipsum",
+        "banner": "./Public/bisey.jpg",
+        "price": 150
+    },
+
+    {
+        "id": 24,
+        "name": "Train",
+        "description": "lorem lipsum",
+        "banner": "./Public/train.jpg",
+        "price": 75
+    },
+
+    {
+        "id": 242,
+        "name": "Cloud",
+        "description": "lorem lipsum",
+        "banner": "./Public/cloud.jpg",
+        "price": 50
+    },
+
+    {
+        "id": 1231,
+        "name": "City",
+        "description": "lorem lipsum",
+        "banner": "./Public/manzara.jpg",
+        "price": 250
+    },
+
+    {
+        "id": 2422,
+        "name": "Sky",
+        "description": "lorem lipsum",
+        "banner": "./Public/sky.jpg",
+        "price": 320
+    }
+
+
+
+]
